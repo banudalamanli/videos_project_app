@@ -1,8 +1,8 @@
 import React from 'react'
 
-const VideItem = (props) => {
-  return <div>Item</div>
+const VideoItem = (props) => {
+  return <div>Video Item</div>
 }
 
-export default VideItem
+export default VideoItem
 
